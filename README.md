@@ -1,6 +1,6 @@
 # Components Integration UI
 
-This repository contains the implementation of the evaluative event "Moment 1" for the course [Nombre del Curso]. The project focuses on integrating various UI components using PrimeFaces and Java EE (Jakarta EE) technologies.
+This repository contains the implementation of the evaluative event "Moment 1" for the course Desarrollo de sistemas distribuidos. The project focuses on integrating various UI components using PrimeFaces and Java EE (Jakarta EE) technologies.
 
 ---
 
@@ -42,10 +42,6 @@ The following tools and technologies were used to develop this project:
 3. **Event Management:**
    - Users can create new events with titles, descriptions, and specific time slots.
    - Events can be edited or deleted dynamically using AJAX.
-
-4. **UI Customization:**
-   - The user interface was enhanced with PrimeFaces themes and custom CSS.
-   - The layout includes a settings panel to adjust calendar preferences in real-time.
 
 ---
 
