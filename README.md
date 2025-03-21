@@ -30,7 +30,7 @@ The following tools and technologies were used to develop this project:
 1. **PrimeFaces Schedule Component:**
    - A fully functional calendar that allows users to view, add, edit, and delete events.
    - Customizable settings such as time format, slot duration, and event overlap.
-   - Integration with AJAX for seamless updates without page reloads.
+   - Integration with DATA for seamless updates without page reloads.
 
 2. **Dynamic Configuration:**
    - The schedule component was configured using the PrimeFaces Showcase example as a reference.
